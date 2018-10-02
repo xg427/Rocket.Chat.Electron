@@ -1,3 +1,27 @@
+<a name="2.14.0-beta.1"></a>
+# 2.14.0-beta.1 (2018-10-02)
+
+
+### New Features
+
+- [#899](https://github.com/RocketChat/Rocket.Chat.Electron/pull/899) Optional status on tray for MacOS
+
+
+### Improvements
+
+- [#887](https://github.com/RocketChat/Rocket.Chat.Electron/pull/887) Update ESLint rules following Rocket.Chat guidelines
+
+
+### Bug Fixes
+
+- [#889](https://github.com/RocketChat/Rocket.Chat.Electron/pull/889) About dialog
+- [#895](https://github.com/RocketChat/Rocket.Chat.Electron/pull/895) Menus
+- [#884](https://github.com/RocketChat/Rocket.Chat.Electron/pull/884) Show tray icon status again
+- [#900](https://github.com/RocketChat/Rocket.Chat.Electron/pull/900) Tray icon module
+- [#902](https://github.com/RocketChat/Rocket.Chat.Electron/pull/902) Tray icon sizes for Linux
+
+
+
 <a name="2.13.3"></a>
 ## 2.13.3 (2018-09-18)
 
